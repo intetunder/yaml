@@ -1,0 +1,5 @@
+host: phl-42
+datacenter:
+  location: Philidelphia
+  cab: 13
+  cab_unit: 3
